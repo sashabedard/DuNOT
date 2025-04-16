@@ -1,0 +1,6 @@
+#PIP install this fucking shit !
+
+opencv-python
+numpy
+pygame
+ultralytics
